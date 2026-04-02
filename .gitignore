@@ -1,0 +1,21 @@
+# 로그 파일
+*.log
+log/
+logs/
+*.txt~
+
+# 압축 파일
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.7z
+*.rar
+
+# 기타 자주 생기는 임시 파일
+*.tmp
+*.bak
+*.swp
+*.swo
+

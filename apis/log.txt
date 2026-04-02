@@ -1,0 +1,616 @@
+[2025-10-30 02:30:17] Machine: goods_counter, Data Type: ok_a_count, Value: 10980.00
+[2025-10-30 02:30:19] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:22] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:25] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:28] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:31] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:33] Machine: goods_counter, Data Type: ok_a_count, Value: 10981.00
+[2025-10-30 02:30:34] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:37] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:40] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:43] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:46] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:49] Machine: goods_counter, Data Type: ok_a_count, Value: 10982.00
+[2025-10-30 02:30:49] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:52] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:55] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:30:58] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:01] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:04] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:05] Machine: goods_counter, Data Type: ok_a_count, Value: 10983.00
+[2025-10-30 02:31:07] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:10] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:13] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:16] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:19] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:21] Machine: goods_counter, Data Type: ok_a_count, Value: 10984.00
+[2025-10-30 02:31:22] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:25] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:28] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:31] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:34] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:37] Machine: goods_counter, Data Type: ok_a_count, Value: 10985.00
+[2025-10-30 02:31:37] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:40] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:43] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:46] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:49] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:52] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:53] Machine: goods_counter, Data Type: ok_a_count, Value: 10986.00
+[2025-10-30 02:31:55] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:31:58] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:01] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:04] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:07] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:08] Machine: goods_counter, Data Type: ok_a_count, Value: 10987.00
+[2025-10-30 02:32:10] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:13] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:16] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:19] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:22] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:24] Machine: goods_counter, Data Type: ok_a_count, Value: 10988.00
+[2025-10-30 02:32:25] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:28] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:31] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:34] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:37] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:40] Machine: goods_counter, Data Type: ok_a_count, Value: 10989.00
+[2025-10-30 02:32:40] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:43] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:46] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:49] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:52] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:55] Machine: goods_counter, Data Type: ok_a_count, Value: 10990.00
+[2025-10-30 02:32:55] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:32:58] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:01] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:04] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:07] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:10] Machine: goods_counter, Data Type: ok_a_count, Value: 10991.00
+[2025-10-30 02:33:10] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:13] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:16] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:19] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:22] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:25] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:26] Machine: goods_counter, Data Type: ok_a_count, Value: 10992.00
+[2025-10-30 02:33:28] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:31] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:34] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:37] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:40] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:41] Machine: goods_counter, Data Type: ok_a_count, Value: 10993.00
+[2025-10-30 02:33:43] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:46] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:49] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:52] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:55] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:33:57] Machine: goods_counter, Data Type: ok_a_count, Value: 10994.00
+[2025-10-30 02:33:58] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:34:01] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:34:04] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:34:07] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:34:10] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:34:13] Machine: goods_counter, Data Type: ok_a_count, Value: 10995.00
+[2025-10-30 02:34:13] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:34:16] Machine: over_curr1, Data Type: current, Value: 0.01
+[2025-10-30 02:34:19] Machine: over_curr1, Data Type: current, Value: 0.01
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:35:35') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:35:35') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:35:35') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:35:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:35:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:35:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:35:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:35:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:35:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:35:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:35:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:35:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:35:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:35:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:35:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11001', '2025-10-30 02:35:47') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:35:47') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '10994', '2025-10-30 02:35:47') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:35:47') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '21995', '2025-10-30 02:35:47') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:35:47') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:35:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:35:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:35:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:35:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:35:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:35:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:35:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:35:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:35:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:35:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:35:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:35:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:36:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11002', '2025-10-30 02:36:02') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:36:02') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '10995', '2025-10-30 02:36:02') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:36:02') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '21997', '2025-10-30 02:36:02') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:36:02') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:36:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:36:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:36:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:36:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:36:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11003', '2025-10-30 02:36:18') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:36:18') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '10996', '2025-10-30 02:36:18') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:36:18') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '21999', '2025-10-30 02:36:18') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:36:18') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:36:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11004', '2025-10-30 02:36:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:36:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '10997', '2025-10-30 02:36:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:36:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22001', '2025-10-30 02:36:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:36:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:36:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:36:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:36:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:36:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11005', '2025-10-30 02:36:50') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:36:50') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '10998', '2025-10-30 02:36:50') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:36:50') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22003', '2025-10-30 02:36:50') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:36:50') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:36:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:36:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:36:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:36:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:36:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:37:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11006', '2025-10-30 02:37:06') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:37:06') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '10999', '2025-10-30 02:37:06') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:37:06') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22005', '2025-10-30 02:37:06') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:37:06') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:37:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:37:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11007', '2025-10-30 02:37:23') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:37:23') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11000', '2025-10-30 02:37:23') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:37:23') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22007', '2025-10-30 02:37:23') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:37:23') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:29') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:29') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:29') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11008', '2025-10-30 02:37:38') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:37:38') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11001', '2025-10-30 02:37:38') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:37:38') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22009', '2025-10-30 02:37:38') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:37:38') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:41') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:41') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:37:41') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:37:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:37:53') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:53') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:53') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11009', '2025-10-30 02:37:54') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:37:54') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11002', '2025-10-30 02:37:54') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:37:54') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22011', '2025-10-30 02:37:54') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:37:54') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:37:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:37:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:37:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:37:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:38:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:38:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:38:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:38:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11010', '2025-10-30 02:38:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:38:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11003', '2025-10-30 02:38:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:38:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22013', '2025-10-30 02:38:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:38:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.007', '2025-10-30 02:38:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:38:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11011', '2025-10-30 02:38:26') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:38:26') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11004', '2025-10-30 02:38:26') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:38:26') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22015', '2025-10-30 02:38:26') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:38:26') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.007', '2025-10-30 02:38:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:38:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:38:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11012', '2025-10-30 02:38:42') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:38:42') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11005', '2025-10-30 02:38:42') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:38:42') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22017', '2025-10-30 02:38:42') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:38:42') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:38:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:47') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:38:47') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:38:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:38:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:38:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:38:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11013', '2025-10-30 02:38:57') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:38:57') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11006', '2025-10-30 02:38:57') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:38:57') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22019', '2025-10-30 02:38:57') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:38:57') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:38:59') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:38:59') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:38:59') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:39:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:39:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:39:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:39:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:39:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11014', '2025-10-30 02:39:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:39:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11007', '2025-10-30 02:39:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:39:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22021', '2025-10-30 02:39:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:39:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:39:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:39:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11015', '2025-10-30 02:39:29') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:39:29') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11008', '2025-10-30 02:39:29') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:39:29') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22023', '2025-10-30 02:39:29') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:39:29') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:39:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:38') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:38') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:38') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11016', '2025-10-30 02:39:45') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:39:45') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11009', '2025-10-30 02:39:45') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:39:45') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22025', '2025-10-30 02:39:45') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:39:45') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.007', '2025-10-30 02:39:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:50') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.007', '2025-10-30 02:39:50') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:39:50') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.007', '2025-10-30 02:39:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:39:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:39:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:39:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.007', '2025-10-30 02:39:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:39:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11017', '2025-10-30 02:40:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:40:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11010', '2025-10-30 02:40:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:40:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22027', '2025-10-30 02:40:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:40:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:40:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.007', '2025-10-30 02:40:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:40:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:40:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:40:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:40:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:40:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11018', '2025-10-30 02:40:17') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:40:17') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11011', '2025-10-30 02:40:17') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:40:17') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22029', '2025-10-30 02:40:17') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:40:17') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:40:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:40:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:40:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:31') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11019', '2025-10-30 02:40:33') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:40:33') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11012', '2025-10-30 02:40:33') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:40:33') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22031', '2025-10-30 02:40:33') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:40:33') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:34') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:37') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:40') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:43') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:40:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:46') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11020', '2025-10-30 02:40:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:40:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11013', '2025-10-30 02:40:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:40:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22033', '2025-10-30 02:40:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:40:49') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:40:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:40:52') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:40:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:40:55') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:40:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:40:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:40:58') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:01') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:04') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11021', '2025-10-30 02:41:05') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:41:05') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11014', '2025-10-30 02:41:05') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:41:05') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22035', '2025-10-30 02:41:05') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:41:05') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:07') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:41:10') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:13') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:16') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:19') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11022', '2025-10-30 02:41:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:41:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11015', '2025-10-30 02:41:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:41:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22037', '2025-10-30 02:41:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:41:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:22') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.021', '2025-10-30 02:41:25') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:28') success
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:31')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:31')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:31')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.005', '2025-10-30 02:41:34')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:34')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:34')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_a_count', '11023', '2025-10-30 02:41:37')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_a_count', '163', '2025-10-30 02:41:37')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_b_count', '11016', '2025-10-30 02:41:37')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_b_count', '168', '2025-10-30 02:41:37')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ok_tot_count', '22039', '2025-10-30 02:41:37')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('goods_counter', 'ng_tot_count', '331', '2025-10-30 02:41:37')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr1', 'current', '0.006', '2025-10-30 02:41:37')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('screw_auto', 'current', '0.006', '2025-10-30 02:41:37')
+
+insert into mes_machine_data (machine, data_type, value, timestamp) values ('over_curr2', 'current', '0.022', '2025-10-30 02:41:37')
+
