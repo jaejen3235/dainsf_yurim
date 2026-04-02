@@ -1,4 +1,4 @@
-# Credo (MES)
+# 유림농산 (MES)
 
 PHP·MySQL 기반 제조 실행 시스템(MES) 웹 애플리케이션입니다. 세션 로그인 후 `controller`·`action` 파라미터로 화면을 구성하며, 모바일 User-Agent는 `mobile/` 경로로 분기합니다.
 
